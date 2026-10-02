@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "build": 9,
-  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v1.0.0-build9/PRUMO_v1.0.0_build9.apk",
-  "notes": "att auto update ota",
+  "version": "0.2.0",
+  "build": 2,
+  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build2/PRUMO_v0.2.0_build2.apk",
+  "notes": "level up em toda a base de codigo",
   "mandatory": false,
-  "sha256": "e8c7f9a016da7549d3fd5a2772ddd45fe8ebe924ff33fc1895cbd36af42b1524",
-  "published_at": "2026-10-02T00:48:31-03:00"
+  "sha256": "9afc7a3e0492c433cca47a4ce9293c38f3ac642536414e19fab530de220a04c7",
+  "published_at": "2026-10-02T20:31:35-03:00"
 }
