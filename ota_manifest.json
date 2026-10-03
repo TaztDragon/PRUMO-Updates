@@ -1,9 +1,9 @@
 {
   "version": "0.2.0",
-  "build": 18,
-  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build18/PRUMO_v0.2.0_build18.apk",
-  "notes": "teste final pelo amor de deus",
+  "build": 19,
+  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build19/PRUMO_v0.2.0_build19.apk",
+  "notes": "fix install",
   "mandatory": false,
-  "sha256": "e6782021b726360d3f01cfb8cfdb3d4b476d985c599c61677b255471f58274e6",
-  "published_at": "2026-10-02T23:45:55-03:00"
+  "sha256": "586b87ce23f4b39e462e6efaac093308376bfbd579d5debb2fc20642217a7a17",
+  "published_at": "2026-10-03T10:29:16-03:00"
 }
