@@ -1,9 +1,9 @@
 {
   "version": "0.2.0",
-  "build": 8,
-  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build8/PRUMO_v0.2.0_build8.apk",
-  "notes": "att auto + perma godmod",
+  "build": 9,
+  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build9/PRUMO_v0.2.0_build9.apk",
+  "notes": "auto download fix + perma godmod  ",
   "mandatory": false,
-  "sha256": "71d744b71a8d7a1b8a8572603e2cbd96896bdd16fcdc9e375837c81c2a867ea4",
-  "published_at": "2026-10-02T22:09:24-03:00"
+  "sha256": "a233b9b67fbbb8aa83de23c5c7f8eb6bcf9c24ea79b929e0e1ebfaba48f621ef",
+  "published_at": "2026-10-02T22:17:45-03:00"
 }
