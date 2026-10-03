@@ -1,9 +1,9 @@
 {
   "version": "0.2.0",
-  "build": 26,
-  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build26/PRUMO_v0.2.0_build26.apk",
-  "notes": "Correcoes e melhorias do PRUMO.",
+  "build": 27,
+  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build27/PRUMO_v0.2.0_build27.apk",
+  "notes": "visual update test",
   "mandatory": false,
-  "sha256": "573fe570be7bdb29f0e46a540008dda8009d0186ec7db408066103875b2bbb9b",
-  "published_at": "2026-10-03T13:44:13-03:00"
+  "sha256": "20da46045d1dc397e4946d24c2a1b9fab0839817367ce7838b43327b40c1ef17",
+  "published_at": "2026-10-03T14:20:22-03:00"
 }
