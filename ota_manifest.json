@@ -1,9 +1,9 @@
 {
   "version": "0.2.0",
-  "build": 7,
-  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build7/PRUMO_v0.2.0_build7.apk",
-  "notes": "erro conta fix",
+  "build": 8,
+  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build8/PRUMO_v0.2.0_build8.apk",
+  "notes": "att auto + perma godmod",
   "mandatory": false,
-  "sha256": "5d5f9c8ab487c8e6e57b966191acfe0d44a1af205be3b43e375ee037c5d71d8e",
-  "published_at": "2026-10-02T21:58:35-03:00"
+  "sha256": "71d744b71a8d7a1b8a8572603e2cbd96896bdd16fcdc9e375837c81c2a867ea4",
+  "published_at": "2026-10-02T22:09:24-03:00"
 }
