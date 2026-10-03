@@ -1,9 +1,9 @@
 {
   "version": "0.2.0",
-  "build": 9,
-  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build9/PRUMO_v0.2.0_build9.apk",
-  "notes": "auto download fix + perma godmod  ",
+  "build": 10,
+  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build10/PRUMO_v0.2.0_build10.apk",
+  "notes": "MUDANCA TELA DE ATT",
   "mandatory": false,
-  "sha256": "a233b9b67fbbb8aa83de23c5c7f8eb6bcf9c24ea79b929e0e1ebfaba48f621ef",
-  "published_at": "2026-10-02T22:17:45-03:00"
+  "sha256": "bcc0664e922c634c3a97d7946e55320266f9cd201ac108f3abe047568bed656c",
+  "published_at": "2026-10-02T22:27:39-03:00"
 }
