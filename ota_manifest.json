@@ -1,9 +1,13 @@
 {
   "version": "0.2.0",
-  "build": 30,
-  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build30/PRUMO_v0.2.0_build30.apk",
+  "build": 33,
+  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build33/PRUMO_v0.2.0_build33.apk",
+  "apk_sha256": "496c65fad1037b24825abe401ce0cf46ba19515dc48b4e31b1964edd99ecec19",
+  "sha256": "496c65fad1037b24825abe401ce0cf46ba19515dc48b4e31b1964edd99ecec19",
+  "windows_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build33/PRUMO_Setup_v0.2.0_build33.exe",
+  "installer_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v0.2.0-build33/PRUMO_Setup_v0.2.0_build33.exe",
+  "windows_sha256": "0707ff05aa1df3f4aa3bdac313448d7328c1243213be4d21dcb9768f69ade39e",
   "notes": "Correcoes e melhorias do PRUMO.",
   "mandatory": false,
-  "sha256": "c947f605185f5a2d1b17f929b12cd4a26fe005c3888698811528915897b34ac9",
-  "published_at": "2026-10-03T21:10:00-03:00"
+  "published_at": "2026-10-03T22:48:44-03:00"
 }
