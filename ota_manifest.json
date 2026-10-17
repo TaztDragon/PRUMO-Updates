@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "build": 98,
-  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v1.0.0-build98/PRUMO_v1.0.0_build98.apk",
-  "apk_sha256": "4d771e16994c192daae77210358108fd3cf40e460e2ce3c3e1913489f4d420c7",
-  "sha256": "4d771e16994c192daae77210358108fd3cf40e460e2ce3c3e1913489f4d420c7",
-  "windows_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v1.0.0-build98/PRUMO_Setup_v1.0.0_build98.exe",
-  "installer_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v1.0.0-build98/PRUMO_Setup_v1.0.0_build98.exe",
-  "windows_sha256": "5fd24d8148e10f9cf54098e53199e6cd57d977558c59fbc1e29e63d6b8ab692c",
-  "notes": "PRUMO 1.0.0 - Correcoes e melhorias.",
+  "build": 99,
+  "apk_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v1.0.0-build99/PRUMO_v1.0.0_build99.apk",
+  "apk_sha256": "e6f27807745d2b9e0ea6d566a152de85642d42d8b307554cd0d88533a26c67a9",
+  "sha256": "e6f27807745d2b9e0ea6d566a152de85642d42d8b307554cd0d88533a26c67a9",
+  "windows_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v1.0.0-build99/PRUMO_Setup_v1.0.0_build99.exe",
+  "installer_url": "https://github.com/TaztDragon/PRUMO-Updates/releases/download/v1.0.0-build99/PRUMO_Setup_v1.0.0_build99.exe",
+  "windows_sha256": "f04a9eafb2d99abef547ec190ef6d4c521eb74b6208d85577a44ffd0df9b2def",
+  "notes": "GERADOR DE RELATÓRIO EM PDF",
   "mandatory": false,
-  "published_at": "2026-10-16T20:47:49-03:00"
+  "published_at": "2026-10-16T21:00:49-03:00"
 }
